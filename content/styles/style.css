@@ -1,0 +1,32 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header, footer {
+    border: 1px rgb(195, 211, 216) solid;
+    background-color: rgb(229, 246, 252);
+    padding: 10px;
+}
+
+main {
+    background-color: rgb(252, 252, 252);
+    padding: 10px;
+}
+
+h1, h2, h3 {
+    color: rgb(46, 62, 67);
+}
+
+a:hover {
+    background-color: rgb(195, 221, 230);
+    color: rgb(62, 83, 90);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.book-title {
+    font-style: italic;
+}
