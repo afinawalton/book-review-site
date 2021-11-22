@@ -1,5 +1,12 @@
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0 15vw;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 header, footer {
